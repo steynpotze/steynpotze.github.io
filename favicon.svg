@@ -1,0 +1,62 @@
+<svg width="32" height="32" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg" style="image-rendering:pixelated">
+  <!-- dark blue background like the site -->
+  <rect width="16" height="16" fill="#000033"/>
+
+  <!-- Elf hat - green with red tip -->
+  <rect x="6" y="0" width="4" height="1" fill="#c00"/>
+  <rect x="5" y="1" width="5" height="1" fill="#090"/>
+  <rect x="4" y="2" width="7" height="1" fill="#090"/>
+  <rect x="4" y="3" width="8" height="1" fill="#090"/>
+  <!-- hat brim / red trim -->
+  <rect x="3" y="4" width="9" height="1" fill="#c00"/>
+
+  <!-- Hair - brown -->
+  <rect x="4" y="4" width="2" height="1" fill="#643"/>
+  <rect x="9" y="4" width="2" height="1" fill="#643"/>
+  <rect x="3" y="5" width="1" height="1" fill="#643"/>
+  <rect x="11" y="5" width="1" height="1" fill="#643"/>
+
+  <!-- Face - skin tone -->
+  <rect x="4" y="5" width="7" height="4" fill="#e8a"/>
+  <!-- Eyes -->
+  <rect x="5" y="6" width="1" height="1" fill="#333"/>
+  <rect x="9" y="6" width="1" height="1" fill="#333"/>
+  <!-- Smile -->
+  <rect x="6" y="8" width="3" height="1" fill="#c66"/>
+  <rect x="5" y="7" width="1" height="1" fill="#c66"/>
+  <rect x="9" y="7" width="1" height="1" fill="#c66"/>
+
+  <!-- Green elf outfit -->
+  <rect x="3" y="9" width="9" height="1" fill="#070"/>
+  <rect x="2" y="10" width="11" height="3" fill="#090"/>
+  <!-- Belt -->
+  <rect x="2" y="11" width="11" height="1" fill="#333"/>
+  <rect x="7" y="11" width="2" height="1" fill="#fc0"/>
+  <!-- Collar red trim -->
+  <rect x="4" y="9" width="2" height="1" fill="#c00"/>
+  <rect x="9" y="9" width="2" height="1" fill="#c00"/>
+  <!-- Buttons -->
+  <rect x="7" y="10" width="1" height="1" fill="#ccc"/>
+  <rect x="7" y="12" width="1" height="1" fill="#ccc"/>
+
+  <!-- Arms -->
+  <rect x="1" y="10" width="1" height="2" fill="#e8a"/>
+  <rect x="13" y="10" width="1" height="2" fill="#e8a"/>
+
+  <!-- Legs/boots -->
+  <rect x="4" y="13" width="3" height="2" fill="#090"/>
+  <rect x="8" y="13" width="3" height="2" fill="#090"/>
+  <rect x="3" y="15" width="4" height="1" fill="#060"/>
+  <rect x="8" y="15" width="4" height="1" fill="#060"/>
+
+  <!-- Twinkling corner stars -->
+  <rect x="1" y="1" width="1" height="1" fill="#ff0" opacity="0.8">
+    <animate attributeName="opacity" values="0.3;1;0.3" dur="1.2s" repeatCount="indefinite"/>
+  </rect>
+  <rect x="14" y="2" width="1" height="1" fill="#ff0" opacity="0.5">
+    <animate attributeName="opacity" values="0.8;0.2;0.8" dur="0.9s" repeatCount="indefinite"/>
+  </rect>
+  <rect x="1" y="14" width="1" height="1" fill="#ff0" opacity="0.6">
+    <animate attributeName="opacity" values="0.5;1;0.5" dur="1.5s" repeatCount="indefinite"/>
+  </rect>
+</svg>
